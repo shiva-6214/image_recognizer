@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(250, 149, 112);
+}
+
+.camera_div {
+    border: 3px dashed black;
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.result_div {
+    border: 3px dashed black;
+    width: 400px;
+    height: 300px;
+}
